@@ -1,0 +1,14 @@
+{
+  "name": "base-account-demo",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "@base-org/account": "^0.0.1"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
